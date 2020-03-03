@@ -1,0 +1,41 @@
+baseURL = "."
+languageCode = "en-us"
+title = "main.dev | high-performance cloud applications"
+theme = "maindev"
+summaryLength = "10"
+paginate = 6
+
+[outputs]
+home = [ "HTML", "CSS" ]
+
+# Plugins
+[params.plugins]
+
+  # CSS Plugins
+  [[params.plugins.css]]
+  URL = "plugins/bootstrap/bootstrap.min.css"
+
+# navigation
+[menu]
+  [[menu.footer]]
+  name = "Imprint"
+  URL = "/imprint"
+
+[params]
+logo = "images/logo.webp"
+logoAlt = "images/logo.png"
+bgImage="images/background/background01.jpg"
+home = "Home"
+# Meta data
+description = "high-performance cloud applications"
+author = "Main Devlopment GmbH"
+
+# flags
+contactFormEnable = false
+
+  # Preloader
+  [params.preloader]
+  enable = true
+
+# footer
+  [params.footer]
