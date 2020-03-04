@@ -6,9 +6,10 @@ introduction:
 # banner-feature
 featureDescription:
   - title: "API"
-    description: "The API locks your mutex key for a small amount of time. You can refresh the mutex to continue your lock while your script is still working on data which should be unusuable for other access working with the same mutex key. When your work is done mutex keys can be unlocked until the next usage."
+    description: "We provide a service where you can handle atomic operations in distributed environments. You don't need to setup your own locking tool. Our API provides simple endpoints for creating your mutex with your own key for a small amount of time, refreshing the mutex when the work isn't done yet or unlocking it when you are done."
 
   - title: "CLI"
+    github: "https://github.com/maindev/testandset"
     description: "The open source CLI for TestAndSet allows you to call the TestAndSet API with an ease. It is simple in usage with all needed commands (lock, get, refresh, unlock and auto-refresh). For validating the owner of a mutex a token is used which must be provided in the refresh, auto-refresh and unlock command."
 
 # why use TestAndSet
@@ -16,6 +17,15 @@ whyUse:
     title: "Why should you use TestAndSet?"
     intro: "Have you ever started a job to change some data which crashed because someone else was manipulating the same data at the same time? In the worst case the data has to be manually fixed to get back to the state it had before you two started your jobs. This can be a mess."
     text: "Choose an unique key for your team which is known by all people working with your mutex protected scripts. Run your script with the TestAndSet mutex lock and your scripts run one after another without conflicts. It is that simple."
+
+# useCases
+useCases:
+    title: "Use cases where TestAndSet can help you:"
+    list:
+      - name: "Deploy software"
+      - name: "Leader election"
+      - name: "Write data on distributed file system"
+      - name: "And many more"
 
 # lock
 mutexLock:

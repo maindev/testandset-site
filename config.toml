@@ -1,6 +1,6 @@
 baseURL = "."
 languageCode = "en-us"
-title = "main.dev | high-performance cloud applications"
+title = "TestAndSet"
 theme = "maindev"
 summaryLength = "10"
 paginate = 6

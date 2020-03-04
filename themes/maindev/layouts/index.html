@@ -19,7 +19,7 @@
 				<div class="row justify-content-center">
 					{{ range .Site.Data.homepage.featureDescription }}
 					<div class="col-md-4 mb-4 text-center">
-						<h3 class="mt-4 text-capitalize">{{.title }}</h3>
+						<h3 class="mt-4 text-capitalize">{{.title }} {{ if .github }} <a href={{ .github }}>@GitHub</a>{{ end }}</h3>
 						<p class="regular">{{.description | markdownify }}</p>
 					</div>
 					{{ end }}
@@ -50,6 +50,27 @@
 				{{ end }}
 			</div>
 		</div>
+	</div>
+</section>
+
+<section class="bg-odd">
+	<div class="container">
+		<div class="text-center pt-5 py-5">
+            {{ with .Site.Data.homepage.useCases }}
+			<div class="pt-4 py-4">
+				<div class="col-sm-8 m-auto">
+					<h4 class="md-section-headline">{{ .title }}</h4>
+                </div>
+            </div>
+            <div>
+                <ul>
+                    {{ range .list }}
+                        <li>{{ .name }}</li>
+                    {{ end }}
+                </ul>
+            </div>
+            {{ end }}
+        </div>
 	</div>
 </section>
 
