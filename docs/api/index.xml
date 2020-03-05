@@ -3,7 +3,7 @@
 &lt;script>
 window.onload = function() {
 const ui = SwaggerUIBundle({
-url: "https://api.testandset.com/api/v1/openapi.yaml",
+url: "https://api.testandset.com/v1/openapi.yaml",
 dom_id: '#ohpen_swagger_ui',
 presets: [
 SwaggerUIBundle.presets.apis,
