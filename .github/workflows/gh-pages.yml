@@ -16,6 +16,9 @@ jobs:
       with:
         hugo-version: '0.66.0'
         extended: true
+    
+    - name: Setup npm modules
+      run: npm install autoprefixer postcss-cli
 
     - name: Build
       run: hugo --gc --minify --cleanDestinationDir
