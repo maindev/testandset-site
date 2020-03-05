@@ -9,7 +9,7 @@ The open source CLI for TestAndSet allows you to call the TestAndSet API with an
 
 ## Installation
 
-You can get the binary on the [releases page of our repository]() or [build from source](/docs/cli/building-from-source).
+You can get the binary on the [releases page of our repository](https://github.com/maindev/testandset/releases) or [build from source](/docs/cli/building-from-source).
 
 ## Available commands
 

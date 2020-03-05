@@ -8,4 +8,4 @@ menu:
     weight: 20
 ---
 
-Documentation is still work in progress, if you feel like something is missing, please [open a pull request]() or [create an issue]().
+Documentation is still work in progress, if you feel like something is missing [open an issue](https://github.com/maindev/testandset-site/issues/new).
