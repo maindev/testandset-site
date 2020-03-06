@@ -1,10 +1,9 @@
 +++
 title = "TestAndSet"
 linkTitle = "About"
-byline = "Photo by Dominik Dvořák on Unsplash"
 +++
 
-{{% blocks/cover title="TestAndSet" image_anchor="top" height="full" color="primary" %}}
+{{% blocks/cover title="TestAndSet" image_anchor="top" height="full" color="primary" byline="Photo by Dominik Dvořák on Unsplash" %}}
 With TestAndSet you can handle custom web-based mutexes from the TestAndSet API.
 
 Mutexes can be integrated in your scripts, whereever you need them.
