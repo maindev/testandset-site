@@ -4,6 +4,10 @@ linkTitle = "About"
 +++
 
 {{% blocks/cover title="TestAndSet" image_anchor="top" height="full" color="primary" byline="Photo by Dominik Dvořák on Unsplash" %}}
+With TestAndSet we provide a service where you can handle atomic operations in distributed environments.
+
+You don't need to setup your own locking tool.
+
 With TestAndSet you can handle custom web-based mutexes from the TestAndSet API.
 
 Mutexes can be integrated in your scripts, whereever you need them.
@@ -34,7 +38,7 @@ Use cases where TestAndSet can help you
     leader election
     </div>
     <div class="col-3">
-    write data on distributed file system
+    batch job orchestration
     </div>
     <div class="col-3">
     many more...
