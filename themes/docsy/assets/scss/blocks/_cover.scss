@@ -15,5 +15,10 @@
         position: 50% 0;
         size: cover;
     };
-
+    
+    & > .byline {
+        position: absolute;
+        bottom: 2px;
+        right: 4px;
+    }
 }
