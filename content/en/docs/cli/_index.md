@@ -18,7 +18,7 @@ You can get the binary on the [releases page of our repository](https://github.c
 Create your mutex with your custom key. There are some options for setting your lock with the CLI. The output can be a json-object or the pure refresh token. You can set a timeout, in which lock automatically tries to lock again at intervals. And you can also set an owner or some non-confidential data in the owner property.
 
 ```bash
-$ testandset mutex lock --name $MUTEX_NAME --output [json|token] \
+$ testandset mutex lock --name $MUTEX_NAME --output [json|token]
     --timeout $TIMEOUT_IN_SECONDS --owner $MUTEX_OWNER_NAME
 ```
 
@@ -52,4 +52,22 @@ You can automatically let your script refresh an existing mutex at intervals. Wh
 
 ```bash
 $ testandset mutex auto-refresh --name $MUTEX_NAME --token $TOKEN"
+```
+
+## Example
+
+Here is an example shell script how you can use TestAndSet CLI:
+
+```bash
+#!/bin/bash -eu
+
+MUTEX_NAME=maindev-mutext-example-1
+TOKEN=$(./TestAndSet mutex lock --name $MUTEX_NAME --output token --timeout 120)
+./TestAndSet mutex auto-refresh --name $MUTEX_NAME --token $TOKEN &
+PID=$!
+trap "kill -TERM $PID" EXIT
+
+echo "Doing something important!"
+sleep 20
+echo "Done."
 ```

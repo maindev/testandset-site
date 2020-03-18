@@ -20,9 +20,13 @@ Read on to find out more, or visit our [documentation](/docs/) to get started!
 {{% blocks/lead color="info" %}}
 ### Why should you use TestAndSet?
 <hr />
+<p>
 Have you ever started a job to change some data which crashed because someone else was manipulating the same data at the same time? In the worst case the data has to be manually fixed to get back to the state it had before you two started your jobs. This can be a mess.
+</p>
 
+<p>
 Choose an unique key for your team which is known by all people working with your mutex protected scripts. Run your script with the TestAndSet mutex lock and your scripts run one after another without conflicts. It is that simple.
+</p>
 {{% /blocks/lead %}}
 
 {{% blocks/section color="primary" type="section" %}}
@@ -32,16 +36,16 @@ Use cases where TestAndSet can help you
 </h3>
 <div class="row text-center">
     <div class="col-3">
-    software deployment
+      <h4>software deployment</h4>
     </div>
     <div class="col-3">
-    leader election
+      <h4>leader election</h4>
     </div>
     <div class="col-3">
-    batch job orchestration
+      <h4>batch job orchestration</h4>
     </div>
     <div class="col-3">
-    many more...
+      <h4>many more...</h4>
     </div>
 </div>
 {{% /blocks/section %}}

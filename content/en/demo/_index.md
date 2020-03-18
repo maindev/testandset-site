@@ -16,7 +16,7 @@ There is also one frontend application called `presenter` which is showing the s
 You are able to order specific box to `unlock the mutex` or `die` by clicking one of the buttons in frontend app.
 
 The mutex is taken for 60 seconds, each box refreshes it every 30 seconds. When you order one box to unlock it,
-another box (or the same one) can imaditianely obtain it, but when the box dies, all of them have to wait till
+another box (or the same one) can immediately obtain it, but when the box dies, all of them have to wait till
 the mutex expires.
 Boxes are automatically resurrected after they are killed so it's possible (if they have enough luck) to become a leader again as well.
 
