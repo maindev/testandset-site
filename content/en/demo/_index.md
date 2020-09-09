@@ -10,15 +10,19 @@ description:
 {{% blocks/section color="white" type="section" %}}
 ## What does demo present?
 
-There are 3 boxes called `hill-fighters` which are fighting over one mutex. The one which holds it is the leader.
+The aim of this demo is to provide a working example of how mutex implemented scripts can provide a conflict-free environment for developers.
 
-There is also one frontend application called `presenter` which is showing the statuses of these 3 boxes.
-You are able to order specific box to `unlock the mutex` or `die` by clicking one of the buttons in frontend app.
+There are three different agents called `hill-fighters`. These hill-fighters mainly represent a state of programmers fighting over one mutex. The one which gets hold of the mutex is called the leader.
 
-The mutex is taken for 60 seconds, each box refreshes it every 30 seconds. When you order one box to unlock it,
-another box (or the same one) can immediately obtain it, but when the box dies, all of them have to wait till
-the mutex expires.
-Boxes are automatically resurrected after they are killed so it's possible (if they have enough luck) to become a leader again as well.
+Once an agent gets hold of the mutex, it becomes the leader for the next 60 seconds. However, other agents keep refreshing automatically every 30 seconds to look for an unlocked mutex state. 
 
-You can play with the demo page <a href="https://demo.testandset.com" target="_blank">here</a> or see the source code on <a href="https://github.com/maindev/testandset-demo" target="_blank">GitHub</a>.
+With the help of our frontend application called `presenter` you can visualize the status of these 3 agents.  Via this application, you can either  `unlock the mutex` or `die`  by clicking the respective buttons.
+
+`unlock the mutex` : This command button tries to unlock the mutex if you are the leader. Once unlocked, the mutex is now open to be grabbed by either of the three agents.
+
+`die` : command die is similar to abrupt command. On the usage of this command, the agent loses control over the mutex and all the agents have to wait till the mutex expires. 
+
+Agents are automatically resurrected after the die command is used. It is possible (if they have enough luck) to become a leader again as well.
+
+You can check the demo <a href="https://demo.testandset.com" target="_blank">here</a> or see the source code on <a href="https://github.com/maindev/testandset-demo" target="_blank">GitHub</a>.
 {{% /blocks/section %}}
