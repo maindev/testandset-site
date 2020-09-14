@@ -1,0 +1,54 @@
+title: TestAndSet
+baseURL: /
+params:
+  palette: blue
+  header:
+    title: TestAndSet
+    logo_img: images/logo.png
+    has_nav: true
+    nav_links:
+      - label: Home
+        url: /
+      - label: Demo
+        url: /demo
+      - label: Documentation
+        url: /docs/
+        primary: true
+  footer:
+    logo_img: images/logo_alt.png
+    tagline: Lock mechanism that simply works
+    has_nav: true
+    nav_title: Company
+    nav_links:
+      - label: About Us
+        url: /about
+      # - label: Sign Up
+      #   url: signup
+      - label: Contact
+        url: /contact
+    has_social: true
+    social_title: Community
+    social_links:
+      - label: Twitter
+        url: 'https://twitter.com/'
+        new_window: true
+      - label: Instagram
+        url: 'https://www.instagram.com/'
+        new_window: true
+      - label: LinkedIn
+        url: 'https://www.linkedin.com/'
+        new_window: true
+    has_subscribe: false
+    subscribe_title: Subscribe
+    subscribe_content: Stay up to date with our latest developments.
+    content: '&copy; Main Development GmbH. All rights reserved.'
+    # links:
+    #   - label: Made with Stackbit
+    #     url: 'https://www.stackbit.com'
+    #     new_window: true
+taxonomies:
+  stub: stub
+disableKinds:
+  - RSS
+  - taxonomy
+  - taxonomyTerm
