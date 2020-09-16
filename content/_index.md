@@ -35,11 +35,11 @@ sections:
         image: images/feature2.png
         content: |-
           TestAndSet mutex lock assigns a unique key for your team and is publicly known by all team members working with the mutex protected scripts. This unique key provides you the flexibility to run your scripts without the hassles of conflicts or data overloading. It is that simple.
-          -title: jbnadv
-          image: bfhgvff
-          content: |-
-          hsbdhbfghrsjjd       
-          Now you focus on developing greater products, we commit to provide a hassle-free deployment process.
+      - title: jbnadv
+        image: bfhgvff
+        content: |-
+         hsbdhbfghrsjjd       
+         Now you focus on developing greater products, we commit to provide a hassle-free deployment process.
   - section_id: usecases
     type: section_content
     background: white
