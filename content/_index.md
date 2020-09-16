@@ -7,8 +7,7 @@ sections:
     title: We help you avoid Conflict!
     content: >-
       Handle atomic operations in distributed environments with ease. 
-      No more hassles of setting up manual locking tools. <br> 
-      &nbsp;
+      No more hassles of setting up manual locking tools.  
       TestAndSet API handles custom web-based mutexes and provides you an automated solution that can be integrated right in your scripts no matter what language you use for development!
      
     actions:
