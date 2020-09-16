@@ -37,23 +37,23 @@ sections:
         image: images/Untitled design (10).png
         content: |-
          Focus on developing greater products, we commit to provide a hassle-free deployment process . The API integrates seamlessly in your deployment process without any dependency on the scripting language. 
-  - section_id: reviews
-    type: section_reviews
+  - section_id: usecases
+    type: section_usecases
     background: white
     title: Applications and Use Cases
     subtitle: >-
-     Try out the API [demo](/demo)  here for a better understanding. 
-    reviews:
-      - author: Batch job Orientation
-        avatar: images/calendar.png
+     Try out the API (/demo)[demo] for a better understanding. 
+    features:
+      - name: Batch job Orientation
+        image: images/calendar.png
         content: >-
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
-      - author: Queueing System
-        avatar: images/queue.png
+      - name: Queueing System
+        image: images/queue.png
         content: >-
           Sed laoreet magna commodo libero euismod sodales. Nunc ac libero convallis, interdum ligula vel, pretium diam. Integer commodo sem at dui sollicitudin, vel posuere justo laoreet.
-      - author: Rdg
-        avatar: images/review3.jpg
+      - name: Rdg
+        image: images/review3.jpg
   - section_id: usecases
     type: section_content
     background: white
