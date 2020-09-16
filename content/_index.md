@@ -21,20 +21,17 @@ sections:
   - section_id: features
     type: section_features
     background: gray
-    title: Time To Take Control!
-    subtitle: >-fbgbfhjsdf
+    title: Features
+    subtitle: >-
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
+      quis lorem malesuada luctus.
     features:
-      - title: Overlapping 
+      - title: We help you avoid conflicts
         image: images/Untitled design (2).png
         content: |-
           You just wrote a script to manipulate data. Well, it crashed; The reason being, someone else was manipulating the same data at the same time!
           Damn it, In the worst case, the data has to be manually fixed to get back to the state it had before you two started your jobs. Indeed, This can be a mess!
-      - title: Overlapping 
-        image: images/Untitled design (2).png
-        content: |-
-          You just wrote a script to manipulate data. Well, it crashed; The reason being, someone else was manipulating the same data at the same time!
-          Damn it, In the worst case, the data has to be manually fixed to get back to the state it had before you two started your jobs. Indeed, This can be a mess!
-      - title: Let us help you here!
+      - title: Let us help you here
         image: images/feature2.png
         content: |-
           TestAndSet mutex lock assigns a unique key for your team and is publicly known by all team members working with the mutex protected scripts. This unique key provides you the flexibility to run your scripts without the hassles of conflicts or data overloading. It is that simple.
