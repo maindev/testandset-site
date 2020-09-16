@@ -16,7 +16,7 @@ sections:
         url: /docs/
         primary: true
       - label: Demo
-        url: /demo
+        url: /demo/
         primary: false
   - section_id: features
     type: section_features
@@ -42,7 +42,7 @@ sections:
     background: white
     title: Applications and Use Cases
     subtitle: >-
-     Try out the API (/demo)[demo] for a better understanding. 
+     Try out the API [demo](/demo/) for a better understanding. 
     features:
       - name: Batch job Orientation
         image: images/calendar.png
