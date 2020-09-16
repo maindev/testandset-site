@@ -8,8 +8,9 @@ sections:
     content: >-
     TestAndSet API handles custom web-based mutexes and provides you an automated solution that can be integrated right in your scripts no matter what language you use for development!
     
-    Handle atomic operations in distributed environments with ease.
     
+    Handle atomic operations in distributed environments with ease.
+   
     actions:
       - label: Documentation
         url: /docs/
