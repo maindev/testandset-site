@@ -22,9 +22,9 @@ sections:
     type: section_features
     background: gray
     title: Time to take control!
-    subtitle: >-
-      Now you focus on developing greater products, we commit to provide a hassle-free deployment process.
+    subtitle: >- Now you focus on developing greater products, we commit to provide a hassle-free deployment process.
     features:
+      - title: We help you avoid conflicts
         image: images/Untitled design (2).png
         content: |-
           You just wrote a script to manipulate data. Well, it crashed; The reason being, someone else was manipulating the same data at the same time!
