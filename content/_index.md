@@ -21,25 +21,22 @@ sections:
   - section_id: features
     type: section_features
     background: gray
-    title: Features
+    title: Time to take control!
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+      Failing jobs because of conflicts on the same data is a nightmare for software engineers. This mess can be avoided with the Test and Set API.
     features:
-      - title: We help you avoid conflicts
+      - title: Automated Deployment
         image: images/Untitled design (2).png
         content: |-
-          You just wrote a script to manipulate data. Well, it crashed; The reason being, someone else was manipulating the same data at the same time!
-          Damn it, In the worst case, the data has to be manually fixed to get back to the state it had before you two started your jobs. Indeed, This can be a mess!
-      - title: Let us help you here
+          TestAndSet mutex lock assigns a unique key for your team and is publicly known by all team members working with the mutex protected scripts. This unique key provides you the flexibility to run your scripts without the hassles of conflicts or data overloading. It is that simple. 
+      - title: Leader Election
         image: images/feature2.png
         content: |-
-          TestAndSet mutex lock assigns a unique key for your team and is publicly known by all team members working with the mutex protected scripts. This unique key provides you the flexibility to run your scripts without the hassles of conflicts or data overloading. It is that simple.
-      - title: jbnadv
+          The unique key is assigned to the team that can be incorporated in the scripts. The mutex processes the scripts in a round-robin fashion with each script given the same priority and fixed hold time as a leader. 
+      - title: No language Barrier
         image: bfhgvff
         content: |-
-         hsbdhbfghrsjjd       
-         Now you focus on developing greater products, we commit to provide a hassle-free deployment process.
+         Focus on developing greater products, we commit to provide a hassle-free deployment process . The API integrates seamlessly in your deployment process without any dependency on the scripting language. 
   - section_id: usecases
     type: section_content
     background: white
