@@ -4,7 +4,7 @@ params:
   palette: blue
   header:
     title: TestAndSet
-    logo_img: images/Copy of Test and Set (4).png
+    logo_img: images/Copy of Test and Set (5).png
     has_nav: true
     nav_links:
       - label: Home
