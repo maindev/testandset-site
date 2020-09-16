@@ -34,7 +34,7 @@ sections:
         content: |-
           The unique key is assigned to the team that can be incorporated in the scripts. The mutex processes the scripts in a round-robin fashion with each script given the same priority and fixed hold time as a leader. 
       - title: No language Barrier
-        image: bfhgvff
+        image: images/Untitled design (4).png
         content: |-
          Focus on developing greater products, we commit to provide a hassle-free deployment process . The API integrates seamlessly in your deployment process without any dependency on the scripting language. 
   - section_id: usecases
