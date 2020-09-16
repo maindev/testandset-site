@@ -21,8 +21,7 @@ sections:
     background: gray
     title: Features
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+      Now you focus on developing greater products, we commit to provide a hassle-free deployment process.
     features:
       - title: We help you avoid conflicts
         image: images/Untitled design (2).png
@@ -34,7 +33,7 @@ sections:
         content: |-
           TestAndSet mutex lock assigns a unique key for your team and is publicly known by all team members working with the mutex protected scripts. This unique key provides you the flexibility to run your scripts without the hassles of conflicts or data overloading. It is that simple.
           
-          Now you focus on developing greater products, we commit to provide a hassle-free deployment process.
+          
   - section_id: usecases
     type: section_content
     background: white
