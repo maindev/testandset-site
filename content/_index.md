@@ -30,7 +30,7 @@ sections:
         content: |-
           TestAndSet mutex lock assigns a unique key for your team and is publicly known by all team members working with the mutex protected scripts. This unique key provides you the flexibility to run your scripts without the hassles of conflicts or data overloading. It is that simple. 
       - title: Leader Election
-        image: images/Untitled design (5).png
+        image: images/Untitled design (7).png
         content: |-
           The unique key is assigned to the team that can be incorporated in the scripts. The mutex processes the scripts in a round-robin fashion with each script given the same priority and fixed hold time as a leader. 
       - title: No language Barrier
