@@ -15,7 +15,7 @@ params:
         url: /docs/
         primary: true
   footer:
-    logo_img: images/Copy of Test and Set (3).png
+    logo_img: images/Copy of Test and Set (2).png
     tagline: Lock mechanism that simply works
     has_nav: true
     nav_title: Company
