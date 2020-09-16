@@ -3,11 +3,11 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: images/hero.png
+    image: images/Untitled design (3).png
     title: We help you avoid Conflict!
     content: >-
       Handle atomic operations in distributed environments with ease. 
-      No more hassles of setting up manual locking tools.\
+      No more hassles of setting up manual locking tools.
       TestAndSet API handles custom web-based mutexes and provides you an automated solution that can be integrated right in your scripts no matter what language you use for development!
      
     actions:
@@ -16,7 +16,7 @@ sections:
         primary: true
       - label: Demo
         url: /docs/
-        primary: false
+        primary: primary
   - section_id: features
     type: section_features
     background: gray
