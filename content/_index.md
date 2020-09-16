@@ -23,7 +23,7 @@ sections:
     background: gray
     title: Time to take control!
     subtitle: >-
-      Failing jobs because of conflicts on the same data is a nightmare for software engineers. This mess can be avoided with the Test and Set API.
+      Unsuccesful job execution because of conflicts on the same data is a nightmare for software engineers.Test and Set API provides a safer solution.
     features:
       - title: Automated Deployment
         image: images/Untitled design (2).png
