@@ -21,10 +21,9 @@ sections:
   - section_id: features
     type: section_features
     background: gray
-    title: Features
+    title: Time To Take Control!
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+      You just wrote a script to manipulate data. Well, it crashed; The reason being, someone else was manipulating the same data at the same time! Damn it, In the worst case, the data has to be manually fixed to get back to the state it had before you two started your jobs. Indeed, This can be a mess!
     features:
       - title: We help you avoid conflicts
         image: images/Untitled design (2).png
