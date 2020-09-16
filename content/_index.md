@@ -15,7 +15,7 @@ sections:
         primary: true
       - label: Demo
         url: /docs/
-        primary: true
+        primary: false
   - section_id: features
     type: section_features
     background: gray
