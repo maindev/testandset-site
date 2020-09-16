@@ -4,14 +4,21 @@ sections:
   - section_id: hero
     type: section_hero
     image: images/hero.png
-    title: TestAndSet
+    title: We help you avoid Conflict!
     content: >-
-      With TestAndSet, now you can handle atomic operations in distributed environments with ease. No more hassles of setting up manual locking tools. TestAndSet  API handles custom web-based mutexes and provides you an automated solution that can be integrated right in your scripts no matter what language you use for development!
+      Handle atomic operations in distributed environments with ease. 
+      No more hassles of setting up manual locking tools. 
+      
+      TestAndSet  API handles custom web-based mutexes and provides you an automated solution that can be integrated right in your scripts no matter what language you use for development!
+      
       Read on to find out more, or visit our [documentation](/docs/) to get started!
     actions:
-      - label: Learn More
+      - label: Documentation
         url: /docs/
         primary: true
+      - label: Demo
+        url: /docs/
+        primary: false
   - section_id: features
     type: section_features
     background: gray
