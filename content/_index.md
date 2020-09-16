@@ -6,7 +6,7 @@ sections:
     image: images/Untitled design (3).png
     title: We help you avoid Conflict!
     content: >-
-      TestAndSet API handles custom web-based mutexes and provides you an automated solution that can be integrated right in your scripts no matter what language you use for development.
+      TestAndSet API handles custom web-based mutexes and provides you an automated solution that can be integrated right in your scripts no matter what language you use for development. [documentation](/docs/)
       
       
       Handle atomic operations in distributed environments with ease!
