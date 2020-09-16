@@ -34,15 +34,15 @@ sections:
         content: |-
           The unique key is assigned to the team that can be incorporated in the scripts. The mutex processes the scripts in a round-robin fashion with each script given the same priority and fixed hold time as a leader. 
       - title: No language Barrier
-        image: images/Untitled design (4).png
+        image: images/Untitled design (10).png
         content: |-
          Focus on developing greater products, we commit to provide a hassle-free deployment process . The API integrates seamlessly in your deployment process without any dependency on the scripting language. 
   - section_id: reviews
     type: section_reviews
     background: white
-    title: Testimonials
+    title: Applications and Use Cases
     subtitle: >-
-      Aliquam malesuada ligula eget est fringilla blandit. Integer finibus semper libero id sodales. 
+     Try out the API demo [documentation](/docs/)  here for a better understanding. 
     reviews:
       - author: John Doe
         avatar: images/review1.jpg
