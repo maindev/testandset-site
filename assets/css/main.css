@@ -1227,6 +1227,92 @@ img {
     flex-direction: column;
     margin: 0 0.833333em; } }
 
+/* feature use name */
+.feature {
+  border: 0;
+  font-size: 0.88889rem;
+  line-height: 1.75;
+  margin: 0 auto 1.66667rem;
+  max-width: 488px;
+  padding: 0; }
+
+.feature-inside {
+  background: #fff;
+  border: 1px solid #ebecf0;
+  border-radius: 3px;
+  box-shadow: 0 3px 10px 0 rgba(76, 82, 103, 0.1);
+  padding: 1.11111rem; }
+
+.feature-text {
+  margin-bottom: 1.5em;
+  padding-top: 2rem;
+  position: relative; }
+  .feature-text:before {
+    color: #0072ff;
+    content: "";
+    display: block;
+    font-size: 2.66667rem;
+    font-weight: bold;
+    left: 0;
+    line-height: 1;
+    position: absolute;
+    top: 0; }
+
+.feature-footer {
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex; }
+  .feature-footer .feature-name {
+    color: #2c2f3b;
+    font-size: inherit;
+    font-weight: bold;
+    margin: 0; }
+  .feature-footer .feature-image {
+    border-radius: 50%;
+    height: 60px;
+    margin-right: 15px;
+    width: 60px; }
+
+@media only screen and (min-width: 741px) {
+  .features-block .grid {
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-flex-wrap: wrap;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin: 0 -0.83333rem;
+    justify-content: center; }
+  .features-block .cell {
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-flex: 1 1 280px;
+    -ms-flex: 1 1 280px;
+    flex: 1 1 280px;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    margin: 0 0 1.66667em; }
+    .features-block .cell:first-child:nth-last-child(4), .features-block .cell:first-child:nth-last-child(4) ~ .cell {
+      min-width: 40%; }
+    .features-block .cell:first-child:nth-last-child(5), .features-block .cell:first-child:nth-last-child(5) ~ .cell {
+      min-width: 30%; }
+  .features-block .feature-inside {
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-flex: 1 1 auto;
+    -ms-flex: 1 1 auto;
+    flex: 1 1 auto;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    margin: 0 0.833333em; } }
+
 /* Pricing */
 .plan {
   font-size: 0.88889rem;
