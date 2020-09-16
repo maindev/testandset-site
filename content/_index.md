@@ -52,7 +52,7 @@ sections:
   - section_id: call-to-action
     type: section_cta
     title: Let's start now!
-    subtitle: Go to the docs and start using it right away!
+    subtitle: Go  to the docs and start using it right away!
     actions:
       - label: Take me to the docs
         url: /docs/
