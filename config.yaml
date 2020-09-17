@@ -26,6 +26,10 @@ params:
       #   url: signup
       - label: Contact
         url: /contact
+      -label : Terms and Conditions
+        url: /Terms and conditions
+      -label : Privacy Policy
+        url: /privacy policy
     has_social: true
     social_title: Community
     social_links:
