@@ -30,18 +30,18 @@ params:
         url: /terms-and-conditions/
       - label: Privacy Policy
         url: /privacy-policy/
-      - label: Loophole
-        url: 'www.loophole.cloud' 
     has_social: true
     social_title: Community
     social_links:
       - label: Twitter
-        url: 'https://twitter.com/_TestandSet'
+        url: 'https://twitter.com//_TestandSet'
         new_window: true
       - label: LinkedIn
         url: 'https://www.linkedin.com/'
         new_window: true
-    has_subscribe: false
+      - label: Loophole
+        url: 'https://www.loophole.cloud'
+    has_subscribe: true
     subscribe_title: Subscribe
     subscribe_content: Stay up to date with our latest developments.
     content: '&copy; 2020 Main Development GmbH All rights reserved.'
