@@ -3,9 +3,6 @@ title: Demo
 layout: page
 ---
 
-## What does demo present?
-
-
 The aim of this demo is to provide a working example of how mutex implemented scripts can provide a conflict-free environment for developers.
 
 There are three different agents called `hill-fighters`. These hill-fighters mainly represent a state of programmers fighting over one mutex. The one which gets hold of the mutex is called the leader.
@@ -21,4 +18,5 @@ With the help of our frontend application called `presenter` you can visualize t
 Agents are automatically resurrected after the die command is used. It is possible (if they have enough luck) to become a leader again as well.
 
 You can check the demo [here](https://demo.testandset.com) or see the source code on [GitHub](https://github.com/maindev/testandset-demo)
+
 
