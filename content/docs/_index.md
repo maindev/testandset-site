@@ -3,6 +3,8 @@ title: Documentation
 layout: page
 ---
 
+Download the latest version of TestAndSet API [here](https://github.com/maindev/testandset/releases) 
+
 - [CLI reference](/docs/cli/)
   - [Building from source](/docs/cli/building-from-source/)
 - [API reference](/docs/api/)

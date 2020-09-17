@@ -17,6 +17,6 @@ With the help of our frontend application called `presenter` you can visualize t
 
 Agents are automatically resurrected after the die command is used. It is possible (if they have enough luck) to become a leader again as well.
 
-You can check the demo [here](https://demo.testandset.com) or see the source code on [GitHub](https://github.com/maindev/testandset-demo)
+You can check the demo [here](https://demo.testandset.com) or download the latest version from [GitHub](https://github.com/maindev/testandset/releases)
 
 
