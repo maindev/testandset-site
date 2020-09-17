@@ -12,11 +12,11 @@ sections:
       Handle atomic operations in distributed environments with ease!
      
     actions:
-      - label: Documentation
-        url: /docs/
-        primary: true
       - label: Demo
         url: /demo/
+        primary: true
+      - label: Documentation
+        url: /docs/
         primary: false
   - section_id: features
     type: section_features
