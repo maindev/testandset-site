@@ -45,7 +45,7 @@ params:
     has_subscribe: false
     subscribe_title: Subscribe
     subscribe_content: Stay up to date with our latest developments.
-    content: '&copy; 2020 ' [Main Development GmbH](/www.main.dev/) 'All rights reserved.'
+    content: '&copy; 2020 Main Development GmbH All rights reserved.'
     # links:
     #   - label: Made with Stackbit
     #     url: 'https://www.stackbit.com'
