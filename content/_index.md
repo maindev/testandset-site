@@ -23,7 +23,7 @@ sections:
     background: gray
     title: Time to take control!
     subtitle: >-
-      Unsuccesful job execution because of conflicts on the same data is a nightmare for software engineers.With TestandSet, you can take control.
+      Unsuccesful job execution because of conflicts on the same data is a nightmare for software engineers. With TestandSet, you can take control.
     features:
       - title: Automated Deployment
         image: images/Untitled design (2).png
