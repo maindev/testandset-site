@@ -33,15 +33,15 @@ params:
     has_social: true
     social_title: Community
     social_links:
+      - label: Github
+        url: 'https://github.com/maindev/testandset'
+        new_window: true
       - label: Twitter
         url: 'https://twitter.com//_TestandSet'
         new_window: true
-      - label: LinkedIn
-        url: 'https://www.linkedin.com/'
-        new_window: true
       - label: Loophole
         url: 'https://loophole.cloud'
-    has_subscribe: true
+    has_subscribe: false
     subscribe_title: Subscribe
     subscribe_content: Stay up to date with our latest developments.
     content: '&copy; 2020 Main Development GmbH All rights reserved.'
