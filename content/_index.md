@@ -54,12 +54,15 @@ sections:
         image: images/tracking.png
   - section_id: call-to-action
     type: section_cta
-    title: Let's start now!
-    subtitle: Go to the docs and start using it right away!
+    title: Try it out yourself with the online demo!
+    subtitle: or visit the docs and start using it right away!
     actions:
-      - label: Take me to the docs
-        url: /docs/
+      - label: Surpise me with Demo
+        url: /demo/
         primary: true
+      - label: Documentation 
+        url: /docs/
+        primary: false
 layout: landing
 ---
 
