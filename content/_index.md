@@ -48,7 +48,7 @@ sections:
         image: images/calendar.png
       - name: Queueing System
         image: images/queue.png
-      - name: Software Depolyment
+      - name: Software Deployment
         image: images/deployment.png
       - name:  Tracking system
         image: images/tracking.png
