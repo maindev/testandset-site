@@ -67,7 +67,7 @@
 
   <div class="site-info outer">
     <div class="inner">
-      {{ .Site.Params.footer.content | safeHTML }}
+      <a href="https://main.dev">{{ .Site.Params.footer.content | safeHTML }}</a>
       &nbsp;
       {{ range $action := .Site.Params.footer.links }}
         {{ $include_dict := dict "action" $action }}
