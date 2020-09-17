@@ -20,8 +20,8 @@ params:
     has_nav: true
     nav_title: Company
     nav_links:
-      - label: About Us
-        url: /about
+      #- label: About Us
+      #  url: /about
       # - label: Sign Up
       #   url: signup
       - label: Contact
@@ -45,7 +45,7 @@ params:
     has_subscribe: false
     subscribe_title: Subscribe
     subscribe_content: Stay up to date with our latest developments.
-    content: '&copy; Main Development GmbH. All rights reserved.'
+    content: '&copy; 2020 ' [Main Development GmbH](/www.main.dev/) 'All rights reserved.'
     # links:
     #   - label: Made with Stackbit
     #     url: 'https://www.stackbit.com'
