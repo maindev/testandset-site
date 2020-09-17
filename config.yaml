@@ -40,7 +40,7 @@ params:
         url: 'https://www.linkedin.com/'
         new_window: true
       - label: Loophole
-        url: 'https://www.loophole.cloud'
+        url: 'https://loophole.cloud'
     has_subscribe: true
     subscribe_title: Subscribe
     subscribe_content: Stay up to date with our latest developments.
