@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: images/Untitled design (3).png
+    image: images/main.png
     title: No More Conflicts.
     content: >-
       TestAndSet API handles custom web-based mutexes and provides you an automated solution that can be integrated right in your scripts no matter what language you use for development. 
@@ -26,15 +26,15 @@ sections:
       Unsuccesful job execution because of conflicts on the same data is a nightmare for software engineers. With TestandSet, you can take control.
     features:
       - title: Automated Deployment
-        image: images/Untitled design (2).png
+        image: images/auto_deployment.png
         content: |-
           TestAndSet mutex lock assigns a unique key for your team and is publicly known by all team members working with the mutex protected scripts. This unique key provides you the flexibility to run your scripts without the hassles of conflicts or data overloading. It is that simple. 
       - title: Leader Election
-        image: images/Untitled design (8).png
+        image: images/leader_election.png
         content: |-
           The unique key is assigned to the team that can be incorporated in the scripts. The mutex processes the scripts in a round-robin fashion with each script given the same priority and fixed hold time as a leader. 
       - title: No language Barrier
-        image: images/Untitled design (10).png
+        image: images/language.png
         content: |-
          Focus on developing greater products, we commit to provide a hassle-free deployment process . The API integrates seamlessly in your deployment process without any dependency on the scripting language. 
   - section_id: usecases
