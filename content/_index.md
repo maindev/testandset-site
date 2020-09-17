@@ -23,7 +23,7 @@ sections:
     background: gray
     title: Time to take control!
     subtitle: >-
-      Unsuccesful job execution because of conflicts on the same data is a nightmare for software engineers.Test and Set API provides a safer solution.
+      Unsuccesful job execution because of conflicts on the same data is a nightmare for software engineers.With TestandSet, you can take control.
     features:
       - title: Automated Deployment
         image: images/Untitled design (2).png
@@ -42,14 +42,16 @@ sections:
     background: white
     title: Applications and Use Cases
     subtitle: >-
-     Try out the API [demo](/demo/) for a better understanding. 
+     Try out the API [demo](/demo/) for a an interactive experience.
     features:
       - name: Batch job Orientation
         image: images/calendar.png
       - name: Queueing System
         image: images/queue.png
-      - name: Rdg
-        image: images/review3.jpg
+      - name: Software Depolyment
+        image: images/deployment.png
+      - name:  Tracking system
+        image: images/tracking.png
   - section_id: call-to-action
     type: section_cta
     title: Let's start now!
