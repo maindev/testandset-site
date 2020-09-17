@@ -636,7 +636,7 @@ img {
 .inner-small {
   margin-left: auto;
   margin-right: auto;
-  max-width: 555px; }
+  max-width: 650px; }
 
 /**
  * Site Header
@@ -674,7 +674,7 @@ img {
 .site-logo {
   margin: 0; }
   .site-logo img {
-    max-height: 40px; }
+    max-height: 60px; }
 
 .site-navigation {
   margin-left: auto; }
@@ -1234,7 +1234,7 @@ img {
   line-height: 1.75;
   margin: 0 auto 1.66667rem;
   max-width: 488px;
-  padding: 0; }
+  /*padding: 0;*/ }
 
 .feature-inside {
   background: #fff;
@@ -1245,7 +1245,7 @@ img {
 
 .feature-text {
   margin-bottom: 1.5em;
-  padding-top: 2rem;
+  /*padding-top: 2rem;*/
   position: relative; }
   .feature-text:before {
     color: #0072ff;
