@@ -4,9 +4,9 @@ sections:
   - section_id: contact
     type: section_contact
     background: gray
-    title: Get in touch!
+    title: We'd love to hear from you
     content: >-
-     We would love to hear from you. Fill the form below with your query. In case you wish to give us feedback or help us improve our services, let us know. Alternatively, you can always email us at hello@testandset.com. We would be happy to help!
+     Whether you have a question about features, demo, or help us improve our services, our team is ready to answer all your questions. Alternatively, you can always email us at hello@testandset.com. We would be happy to help!
 
 layout: landing
 ---

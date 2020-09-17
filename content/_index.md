@@ -46,28 +46,10 @@ sections:
     features:
       - name: Batch job Orientation
         image: images/calendar.png
-        content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
       - name: Queueing System
         image: images/queue.png
-        content: >-
-          Sed laoreet magna commodo libero euismod sodales. Nunc ac libero convallis, interdum ligula vel, pretium diam. Integer commodo sem at dui sollicitudin, vel posuere justo laoreet.
       - name: Rdg
         image: images/review3.jpg
-  - section_id: usecases
-    type: section_content
-    background: white
-    title: Usecases
-    subtitle: >-
-      Ok great, but what do you think we can use it for?
-    content: |-
-      software deployment
-
-      leader election
-
-      batch job orchestration
-      
-      many more...
   - section_id: call-to-action
     type: section_cta
     title: Let's start now!
