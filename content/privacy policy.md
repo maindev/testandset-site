@@ -2,8 +2,6 @@
 title: Privacy Policy
 layout: page
 ---
-# Customer Privacy Policy
-
 Test And Set respects your privacy. All information you give us is held with the utmost care and security. We at Test And Set are committed to protecting your privacy. If you’re visiting our websites, using our services, working with any of our teams, meeting us at events, or applying for a role with us, this privacy policy sets out what data we collect, and how we use it. It also describes your rights regarding our use of your data.
 
 
