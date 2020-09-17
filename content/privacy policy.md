@@ -2,7 +2,7 @@
 title: Privacy Policy
 layout: page
 ---
-Test And Set respects your privacy. All information you give us is held with the utmost care and security. We at Test And Set are committed to protecting your privacy. If you’re visiting our websites, using our services, working with any of our teams, meeting us at events, or applying for a role with us, this privacy policy sets out what data we collect, and how we use it. It also describes your rights regarding our use of your data.
+TestAndSet respects your privacy. All information you give us is held with the utmost care and security. We at TestAndSet are committed to protecting your privacy. If you’re visiting our websites, using our services, working with any of our teams, meeting us at events, or applying for a role with us, this privacy policy sets out what data we collect, and how we use it. It also describes your rights regarding our use of your data.
 
 
 Please take the time to review this privacy policy as it sets out our privacy practices and tells you how we will treat your personal information. We do not sell, rent, or loan any identifiable information regarding our customers to any third party. Only in the circumstances described within this Privacy Policy would we share your information with any third party.
@@ -66,7 +66,7 @@ We clarify that the provision of personal information is partly required by law 
 
 
 ## CHANGES TO THIS PRIVACY POLICY
-BY USING THIS WEBSITE AND/OR SERVICES, YOU AGREE THAT YOU AS THE DATA SUBJECT CONSENT TO THIS PRIVACY POLICY. YOU AGREE THAT Test And Set.CLOUD MAY MAKE CHANGES TO THIS PRIVACY POLICY AT ANY TIME WITHOUT ANY GIVEN NOTICE AT ITS DISCRETION.
+BY USING THIS WEBSITE AND/OR SERVICES, YOU AGREE THAT YOU AS THE DATA SUBJECT CONSENT TO THIS PRIVACY POLICY. YOU AGREE THAT TestAndSet.CLOUD MAY MAKE CHANGES TO THIS PRIVACY POLICY AT ANY TIME WITHOUT ANY GIVEN NOTICE AT ITS DISCRETION.
  
 Contacting us
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
