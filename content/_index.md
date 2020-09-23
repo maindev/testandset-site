@@ -42,7 +42,7 @@ sections:
     background: white
     title: Applications and Use Cases
     subtitle: >-
-     Try out the API [demo](/demo/) for a an interactive experience.
+     Try out the API [demo](/demo/) for an interactive experience.
     features:
       - name: Batch job Orientation
         image: images/calendar.png
@@ -57,7 +57,7 @@ sections:
     title: Try it out yourself with the online demo!
     subtitle: or visit the docs and start using it right away!
     actions:
-      - label: Surpise me with Demo
+      - label: Surpise me with Demo!
         url: /demo/
         primary: true
       - label: Documentation 
