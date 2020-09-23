@@ -66,8 +66,7 @@ We clarify that the provision of personal information is partly required by law 
 
 
 ## CHANGES TO THIS PRIVACY POLICY
-BY USING THIS WEBSITE AND/OR SERVICES, YOU AGREE THAT YOU AS THE DATA SUBJECT CONSENT TO THIS PRIVACY POLICY. YOU AGREE THAT TestAndSet.CLOUD MAY MAKE CHANGES TO THIS PRIVACY POLICY AT ANY TIME WITHOUT ANY GIVEN NOTICE AT ITS DISCRETION.
+BY USING THIS WEBSITE AND/OR SERVICES, YOU AGREE THAT YOU AS THE DATA SUBJECT CONSENT TO THIS PRIVACY POLICY. YOU AGREE THAT testandset.com MAY MAKE CHANGES TO THIS PRIVACY POLICY AT ANY TIME WITHOUT ANY GIVEN NOTICE AT ITS DISCRETION.
  
 Contacting us
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
-hello@testandset.com
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at: testandset@main.dev .

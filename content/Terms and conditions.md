@@ -2,11 +2,11 @@
 title:  Terms and Conditions
 layout: page
 ---
-Our terms of services agreement describe the conditions for use of TestAndSet and the agreements made by users during registration and continued use of the service. okay this is a test
+Our terms of services agreement describe the conditions for use of TestAndSet and the agreements made by users during registration and continued use of the service.
 
 
 ## Agreement
-These Terms of Service (the "Terms") cover your use of the services TestAndSet provides, including the TestAndSet.com website (the "Site"), the TestAndSet API and any other software or services offered by TestAndSet in connection with any of the above services (the "TestAndSet Services" or the "Services"). "TestAndSet" means the owner and operator of the TestAndSet Services which distributes the TestAndSet software and services.
+These Terms of Service (the "Terms") cover your use of the services TestAndSet provides, including the testandset.com website (the "Site"), the TestAndSet API and any other software or services offered by TestAndSet in connection with any of the above services (the "TestAndSet Services" or the "Services"). "TestAndSet" means the owner and operator of the TestAndSet Services which distributes the TestAndSet software and services.
 
 
 Your access to and use of the Service is conditioned upon your acceptance of and compliance with these Terms. These Terms apply to all visitors, users, and others who wish to access or use the Service. 
@@ -14,15 +14,16 @@ Your access to and use of the Service is conditioned upon your acceptance of and
 
 By accessing or using the Service you agree to be bound by these Terms. If you disagree with any part of the terms then you do not have permission to access the Service.
 
-## Accounts
-TestAndSet Services are available only if you register and create an account with TestAndSet. When you create an account with us, you guarantee that you are above the age of 18 and that the information you provide us is accurate, complete, and current at all times. Inaccurate, incomplete, or obsolete information may result in the immediate termination of your account on the Service. You are responsible for maintaining the security of your account, your passwords, and auth tokens; and you are fully responsible for all activities that occur under the account and any other actions taken in connection with the account. You must notify us immediately upon becoming aware of any breach of security or unauthorized use of your account. 
-
-
-TestAndSet will not be liable for any acts or omissions by you, including any damages of any kind incurred as a result of such acts or omissions. The personal information you provide to TestAndSet for the purpose of creating and maintaining your account is governed by the TestAndSet Privacy Policy.
-
 
 ## Trademarks
 TestAndSet, and any other product or service name or slogan contained in the Site are trademarks of TestAndSet and its suppliers or licensors (unless otherwise indicated), and may not be copied, imitated or used, in whole or in part, without the prior written permission of TestAndSet or the applicable trademark holder. The Service is protected by copyright, trademark, and other laws of both Germany and foreign countries. 
+
+All images and graphics used are royalty free png files procurred from website stated below :
+
+1. www.favpng.com
+2. www.flaticon.com
+
+If you are the author of the image and wish to get the images removed, please contact us and we would do the needful.
 
 ## Links To Other Websites
 
@@ -42,7 +43,7 @@ All provisions of the Terms which by their nature should survive termination sha
 
 ## Fees and Payment
 
-Some Services are provided on a fee basis. You agree to pay TestAndSet the fees for each Service you purchase or use in accordance with the pricing and payment terms presented to you for such Service. You hereby authorize to charge your credit card on a monthly, annual, or another agreed-upon basis, as set forth in the pricing and payment terms presented to you for such Service, in advance of providing the Services. The Services may be interrupted on accounts that reach 5 days past due. Fees paid by you are non-refundable, except as provided in these Terms or when required by law. TestAndSet is not responsible for any additional bank fees, interest charges, finance charges, overdraft charges, or other fees resulting from charges billed by TestAndSet. Currency exchange settlements will be based on agreements between you and the provider of your credit card.
+Some Services may be provided on a fee basis. You agree to pay TestAndSet the fees for each Service you purchase or use in accordance with the pricing and payment terms presented to you for such Service. You hereby authorize to charge your credit card on a monthly, annual, or another agreed-upon basis, as set forth in the pricing and payment terms presented to you for such Service, in advance of providing the Services. The Services may be interrupted on accounts that reach 5 days past due. Fees paid by you are non-refundable, except as provided in these Terms or when required by law. TestAndSet is not responsible for any additional bank fees, interest charges, finance charges, overdraft charges, or other fees resulting from charges billed by TestAndSet. Currency exchange settlements will be based on agreements between you and the provider of your credit card.
 
 ## Fee Changes
 
@@ -62,7 +63,7 @@ You represent and warrant that your use of the TestAndSet website and Services w
 
 ## INDEMNIFICATION
 
-YOU AGREE TO DEFEND, HOLD HARMLESS AND INDEMNIFY TestAndSet, AND ITS SUBSIDIARIES, AFFILIATES, OFFICERS, AGENTS, EMPLOYEES, ADVERTISERS, LICENSORS, SUPPLIERS OR PARTNERS FROM AND AGAINST ANY THIRD PARTY CLAIM ARISING FROM OR IN ANY WAY RELATED TO (A) YOUR BREACH OF THE TERMS, (B) YOUR USE OF THE SERVICES, (C) YOUR VIOLATION OF APPLICABLE LAWS, RULES OR REGULATIONS IN CONNECTION WITH THE SERVICES, OR (D) CONTENT MADE AVAILABLE OVER YOUR TUNNELS, INCLUDING ANY LIABILITY OR EXPENSE ARISING FROM ANY CLAIMS, LOSSES, DAMAGES (ACTUAL AND CONSEQUENTIAL), SUITS, JUDGMENTS, LITIGATION COSTS AND ATTORNEYS' FEES, OF EVERY KIND AND NATURE. IN SUCH A CASE, TestAndSet WILL PROVIDE YOU WITH WRITTEN NOTICE OF SUCH CLAIM, SUIT OR ACTION.
+YOU AGREE TO DEFEND, HOLD HARMLESS AND INDEMNIFY TestAndSet, AND ITS SUBSIDIARIES, AFFILIATES, OFFICERS, AGENTS, EMPLOYEES, ADVERTISERS, LICENSORS, SUPPLIERS OR PARTNERS FROM AND AGAINST ANY THIRD PARTY CLAIM ARISING FROM OR IN ANY WAY RELATED TO (A) YOUR BREACH OF THE TERMS, (B) YOUR USE OF THE SERVICES, (C) YOUR VIOLATION OF APPLICABLE LAWS, RULES OR REGULATIONS IN CONNECTION WITH THE SERVICES, INCLUDING ANY LIABILITY OR EXPENSE ARISING FROM ANY CLAIMS, LOSSES, DAMAGES (ACTUAL AND CONSEQUENTIAL), SUITS, JUDGMENTS, LITIGATION COSTS AND ATTORNEYS' FEES, OF EVERY KIND AND NATURE. IN SUCH A CASE, TestAndSet WILL PROVIDE YOU WITH WRITTEN NOTICE OF SUCH CLAIM, SUIT OR ACTION.
 
 
 ## Notice
@@ -75,7 +76,7 @@ The Terms (including any policies, guidelines or amendments that may be presente
 
 ## Waiver and Severability of Terms
 
-The failure of TestAndSet to exercise or enforce any right or provision of the Terms shall not constitute a waiver of such right or provision. If any provision of the Terms is found by a court of ct.vision, and the other provisions of the Terms remain in full force and effect.
+The failure of TestAndSet to exercise or enforce any right or provision of the Terms shall not constitute a waiver of such right or provision. If any provision of the Terms is found by a court of Germany, and the other provisions of the Terms remain in full force and effect.
 
 ## Governing Law
 
@@ -85,7 +86,7 @@ Our failure to enforce any right or provision of these Terms will not be conside
 
 ## Changes
 
-We reserve the right, at our sole discretion, to modify or replace these Terms at any time. If a revision is a material we will provide at least seven (7) days' notice before the changes take effect, during which period of time you may reject the changes by terminating your account. What constitutes a material change will be determined at our sole discretion.
+We reserve the right, at our sole discretion, to modify or replace these Terms at any time. If a revision is a material we will provide at least seven (7) days' notice before the changes take effect, during which period of time you may reject the changes by terminating the services. What constitutes a material change will be determined at our sole discretion.
 
 
 By continuing to access or use our Service after any revisions become effective, you agree to be bound by the revised terms. If you do not agree to the new terms, you are no longer authorized to use the Service.
@@ -93,4 +94,4 @@ We may terminate or suspend access to the Services immediately, without prior no
 
 
 Contact Us
-If you have any questions about these Terms, please contact us at hello@testandset.com 
+If you have any questions about these Terms, please contact us at testandset@main.dev .
