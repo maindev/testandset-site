@@ -6,7 +6,7 @@
     {{ end }}
     {{ if $section.subtitle }}
     <p class="block-subtitle">
-      {{ $section.subtitle | safeHTML }}
+      {{ $section.subtitle | markdownify | safeHTML }}
     </p>
     {{ end }}
   </div><!-- .block-header -->
