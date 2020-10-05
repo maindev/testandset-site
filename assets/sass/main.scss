@@ -33,14 +33,11 @@ $palette: (
 @import "imports/palettes";
 @import "imports/banner";
 
-
 .swagger-ui {
   .info {
     .title {
-      .small {
-        &.pre {
-          background-color: inherit;
-        }
+      small pre {
+        background-color: inherit;
       }
     }
   }
