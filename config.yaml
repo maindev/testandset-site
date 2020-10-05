@@ -1,5 +1,6 @@
 title: TestAndSet
 baseURL: /
+sectionPagesMenu: "main"
 params:
   palette: blue
   header:
@@ -56,3 +57,7 @@ disableKinds:
   - RSS
   - taxonomy
   - taxonomyTerm
+menu:
+  main: []
+
+canonifyurls: true

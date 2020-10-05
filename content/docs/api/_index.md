@@ -1,6 +1,9 @@
 ---
 title: API reference
-layout: page
+layout: docs
+menu:
+  main:
+    parent: "Documentation"
 ---
 
 The API provides simple endpoints for creating your mutex with your own key for a small amount of time, refreshing the mutex when the work isn't done yet or unlocking it when you are done.

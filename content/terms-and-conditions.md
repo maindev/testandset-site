@@ -1,5 +1,5 @@
 ---
-title:  Terms and Conditions
+title: Terms and Conditions
 layout: page
 ---
 Our terms of services agreement describe the conditions for use of TestAndSet and the agreements made by users during registration and continued use of the service.

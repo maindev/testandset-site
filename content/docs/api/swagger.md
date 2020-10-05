@@ -1,6 +1,9 @@
 ---
 title: Swagger UI
-layout: page
+layout: docs
+menu:
+  main:
+    parent: "API reference"
 ---
 
 

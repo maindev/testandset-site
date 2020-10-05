@@ -1,0 +1,58 @@
+/**
+ * Content
+ * ----------------------------------------------------------------------------
+ */
+.docs {
+  margin-bottom: 3.33333em;
+  display: flex;
+  width: 100%;
+
+  .docs-menu {
+    flex: 0 0 250px;
+    font-size: 0.8rem;
+    padding-left: 0;
+
+    @media only screen and (max-width: 600px) {
+      flex: 0 1 100px;
+    }
+
+    ul {
+      margin-bottom: 0;
+      padding-left: 0.3rem;
+      padding-right: 0.1rem;
+      &.nested {
+        padding-left: 1rem;
+      }
+    }
+  }
+
+  .docs-content {
+    flex: 0 0 800px;
+    font-size: 1rem;
+    p {
+      max-width: 800px;
+    }
+
+    @media only screen and (max-width: 600px) {
+      flex: 0 3 250px;
+      header {
+        h1 {
+          max-width: 250px;
+        }
+      }
+
+      p {
+        max-width: 250px;
+      }
+
+      h2 {
+        max-width: 250px;
+      }
+
+      div.highlight {
+        overflow-x: auto;
+        max-width: 250px;
+      }
+    }
+  }
+}

@@ -1,6 +1,9 @@
 ---
 title: CLI reference
-layout: page
+layout: docs
+menu:
+  main:
+    parent: "Documentation"
 ---
 
 The open source CLI for TestAndSet allows you to call the TestAndSet API with an ease. It is simple in usage with all needed commands (lock, get, refresh, unlock and auto-refresh). For validating the owner of a mutex a token is used which must be provided in the refresh, auto-refresh and unlock command.
