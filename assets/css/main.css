@@ -1006,6 +1006,44 @@ img {
     .pagination .older-posts {
       margin-top: 0.83333rem; } }
 /**
+ * Content
+ * ----------------------------------------------------------------------------
+ */
+.docs {
+  margin-bottom: 3.33333em;
+  display: flex;
+  width: 100%; }
+  .docs .docs-menu {
+    flex: 0 0 250px;
+    font-size: 0.8rem;
+    padding-left: 0; }
+    @media only screen and (max-width: 600px) {
+      .docs .docs-menu {
+        flex: 0 1 100px; } }
+    .docs .docs-menu ul {
+      margin-bottom: 0;
+      padding-left: 0.3rem;
+      padding-right: 0.1rem; }
+      .docs .docs-menu ul.nested {
+        padding-left: 1rem; }
+  .docs .docs-content {
+    flex: 0 0 800px;
+    font-size: 1rem; }
+    .docs .docs-content p {
+      max-width: 800px; }
+    @media only screen and (max-width: 600px) {
+      .docs .docs-content {
+        flex: 0 3 250px; }
+        .docs .docs-content header h1 {
+          max-width: 250px; }
+        .docs .docs-content p {
+          max-width: 250px; }
+        .docs .docs-content h2 {
+          max-width: 250px; }
+        .docs .docs-content div.highlight {
+          overflow-x: auto;
+          max-width: 250px; } }
+/**
  * Sections
  * ----------------------------------------------------------------------------
  */
