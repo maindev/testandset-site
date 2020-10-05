@@ -10,7 +10,7 @@ The open source CLI for TestAndSet allows you to call the TestAndSet API with an
 
 ## Installation
 
-You can get the binary on the [releases page of our repository](https://github.com/maindev/testandset/releases) or [build from source](/docs/cli/building-from-source).
+You can get the binary on the [releases page of our repository](https://github.com/maindev/testandset/releases/latest).
 
 ## Available commands
 
@@ -37,14 +37,14 @@ $ testandset mutex get --name $MUTEX_NAME"
 You can refresh an existing mutex for a small amount of time. To check that you are allowed to refresh you need the token provided by the lock command.
 
 ```bash
-$ testandset mutex refresh --name $MUTEX_NAME --token $TOKEN"
+$ testandset mutex refresh --name $MUTEX_NAME --token $TOKEN
 ```
 ### Unlock
 
 You can unlock an existing mutex to free it for other users when your work is done. To check that you are allowed to unlock you need the token provided by the lock command.
 
 ```bash
-$ testandset mutex unlock --name $MUTEX_NAME --token $TOKEN"
+$ testandset mutex unlock --name $MUTEX_NAME --token $TOKEN
 ```
 
 ### Auto-refresh
@@ -52,7 +52,7 @@ $ testandset mutex unlock --name $MUTEX_NAME --token $TOKEN"
 You can automatically let your script refresh an existing mutex at intervals. When this command is stopped it will automatically unlock the mutex. To check that you are allowed to auto-refresh you need the token provided by the lock command.
 
 ```bash
-$ testandset mutex auto-refresh --name $MUTEX_NAME --token $TOKEN"
+$ testandset mutex auto-refresh --name $MUTEX_NAME --token $TOKEN
 ```
 
 ## Example
