@@ -93,5 +93,5 @@ By continuing to access or use our Service after any revisions become effective,
 We may terminate or suspend access to the Services immediately, without prior notice or liability (other than refunding pre-paid fees to the extent we terminate based on no action or omission on your part), for any reason whatsoever, including, but not limited to, if you breach any of the Terms. All provisions of the Terms which, by their nature, should survive termination shall survive termination, including, without limitation, ownership provisions, warranty disclaimers, indemnifications, and limitations of liability.
 
 
-Contact Us
+## Contact Us
 If you have any questions about these Terms, please contact us at testandset@main.dev .
