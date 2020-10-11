@@ -3,7 +3,7 @@ title: Demo
 layout: page
 ---
 
-The aim of this demo is to provide a working example of how mutex implemented scripts can provide a conflict-free environment for developers.
+The demo aims to provide a working example of how mutex implemented scripts can provide a conflict-free environment for developers.
 
 There are three different agents called `hill-fighters`. These hill-fighters mainly represent a state of programmers fighting over one mutex. The one which gets hold of the mutex is called the leader.
 

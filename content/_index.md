@@ -6,7 +6,7 @@ sections:
     image: images/main.png
     title: No More Conflicts.
     content: >-
-      TestAndSet API handles custom web-based mutexes and provides you an automated solution that can be integrated right in your scripts no matter what language you use for development. 
+      TestAndSet API handles custom web-based mutexes and provides you with an automated solution that can be integrated right into your scripts no matter what language you use for development. 
       
       
       Handle atomic operations in distributed environments with ease!
@@ -23,12 +23,12 @@ sections:
     background: gray
     title: Time to take control!
     subtitle: >-
-      Unsuccesful job execution because of conflicts on the same data is a nightmare for software engineers. With TestandSet, you can take control.
+      Failed jobs because of conflicts arising on manpilating same x is a nightmare for software engineers. With TestandSet, you can take control!
     features:
       - title: Automated Deployment
         image: images/auto_deployment.png
         content: |-
-          TestAndSet mutex lock assigns a unique key for your team and is publicly known by all team members working with the mutex protected scripts. This unique key provides you the flexibility to run your scripts without the hassles of conflicts or data overloading. It is that simple. 
+          TestAndSet mutex lock assigns a unique key for your team which is publicly known by all team members working with the mutex protected scripts. This unique key provides you the flexibility to run your scripts without the hassles of conflicts or data overloading. It is that simple. 
       - title: Leader Election
         image: images/leader_election.png
         content: |-
@@ -36,7 +36,7 @@ sections:
       - title: No language Barrier
         image: images/language.png
         content: |-
-         Focus on developing greater products, we commit to provide a hassle-free deployment process . The API integrates seamlessly in your deployment process without any dependency on the scripting language. 
+         With focus on developing greater products, we commit to provide a hassle-free deployment process . The API integrates seamlessly in your deployment process without any dependency on the scripting language. 
   - section_id: usecases
     type: section_usecases
     background: white
